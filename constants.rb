@@ -1,0 +1,6 @@
+module Constant
+  TRIP_START_STATUS = "in_progress"
+  TRIP_END_STATUS = "end"
+  MAX_ALLOWED_TRIP_MATCHING_DISTANCE = 10.0
+  PER_KM_RATE = 10.0
+end
